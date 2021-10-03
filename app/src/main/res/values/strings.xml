@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">reversi</string>
+    <string name="reverse_board">reverse_board</string>
+    <string name="black">black</string>
+    <string name="white">white</string>
+    <string name="button_on_board">button_on_board</string>
+</resources>
