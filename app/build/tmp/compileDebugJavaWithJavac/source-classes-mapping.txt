@@ -1,0 +1,4 @@
+com/dualreversi/test/BuildConfig.java
+ com.dualreversi.test.BuildConfig
+com/dualreversi/test/MainActivity.java
+ com.dualreversi.test.MainActivity
